@@ -1,0 +1,12 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+
+  "keywords": ["javascript", "starter"]
+}
